@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-Grupo direcionado a estudantes, professores, profissionais que atuam nas áreas de inteligência, segurança da informação, pericia forense, desenvolvimento seguro de software, arquitetura e projetos de segurança física e cibernética. 
+Grupo direcionado a estudantes, professores, profissionais que atuam nas áreas de inteligência, segurança da informação, pericia forense, desenvolvimento seguro de software, arquitetura e projetos de segurança física e cibernética.
+
 ⚠️Obs: Não pertencemos a nenhuma Universidade ou Empresa!!! Somos uma iniciativa acadêmica para a troca de conhecimento, experiência e oportunidade entre alunos de todas universidades e o ambiente corporativo. 
-
 ⚠️Obs2: Iremos fazer sorteios de cursos na udemy, brindes e oportunidades de trabalho! 
-
 ⚠️Obs3: Nao esta autorizado a divulgação de propagandas de empresas, serviços e soluções. 
-
 ⚠️Obs4: Eventos recentes das universidades estão fixados no chat deste grupo! (-; 
 
 👨🏻‍💻Ciclo de Palestras
