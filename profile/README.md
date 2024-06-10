@@ -1,12 +1,14 @@
-## Saudações de Inteligência.🦉
+## INFOSEC - MT 🦉
 
-Grupo direcionado a estudantes, professores, profissionais que atuam nas áreas de inteligência, segurança da informação, pericia forense, desenvolvimento seguro de software, arquitetura e projetos de segurança física e cibernética.<br>
+## Quem Somos?<br> 
+A Comunidade INFOSEC - MT foi criada por estudantes de várias universidades visando centralizar a temática de segurança da informação em um unico local. Este grupo é direcionado a estudantes, professores, profissionais que atuam nas áreas de inteligência, segurança da informação, pericia forense, desenvolvimento seguro de software, arquitetura e projetos de segurança física e cibernética.<br>
 
 ⚠️Obs: Não pertencemos a nenhuma Universidade ou Empresa!!! Somos uma iniciativa acadêmica para a troca de conhecimento, experiência e oportunidade entre alunos de todas universidades e o ambiente corporativo.<br>
 ⚠️Obs2: Iremos fazer sorteios de cursos na udemy, brindes e oportunidades de trabalho!<br> 
 ⚠️Obs3: Nao esta autorizado a divulgação de propagandas de empresas, serviços e soluções.<br> 
 ⚠️Obs4: Eventos recentes das universidades estão fixados no chat deste grupo! (-;<br> 
 
+## O que fazemos?<br> 
 👨🏻‍💻Ciclo de Palestras<br>
 | ✅ Profissões e Carreiras<br>
 | ✅ Governança<br>
@@ -15,6 +17,7 @@ Grupo direcionado a estudantes, professores, profissionais que atuam nas áreas 
 | ✅ Conectividade e Telecomunicações<br>
 | ✅ Segurança da Informação.<br>
 
+## Onde Estamos?<br> 
 🎓 Publico presente e seus representantes!<br> 
 | ✅ FATEC -PROF gabriel<br> 
 | ✅ UNIC - PROF Andre<br>
@@ -24,9 +27,11 @@ Grupo direcionado a estudantes, professores, profissionais que atuam nas áreas 
 | ✅ UFMT - PROF Jean Caminha<br> 
 | ✅ INVEST - PROF Lidia<br>
 
+## Como participo?<br>
 📞 Canais de Comunicação:<br>
 | ✅ Whatsapp: https://chat.whatsapp.com/CmV67dfLhzPFrMkbFYKB6v
 
+## Como apoio as iniciativas da comunidade?<br> 
 🚀 Empresas Parceiras<br>
 <img src="https://i.postimg.cc/ZKts2Gtm/invoke.png" alt="Invoke Secure Team">
 
