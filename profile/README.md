@@ -7,10 +7,15 @@ Grupo direcionado a estudantes, professores, profissionais que atuam nas áreas 
 ⚠️Obs4: Eventos recentes das universidades estão fixados no chat deste grupo! (-; 
 
 👨🏻‍💻Ciclo de Palestras
+
 ✅ Profissões e Carreiras
+
 ✅ Governança 
+
 ✅ Projetos 
+
 ✅ Desenvolvimento 
+
 ✅ Conectividade e Telecomunicações 
 
 Publico presente e seus representantes! 
