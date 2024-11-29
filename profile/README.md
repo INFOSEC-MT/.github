@@ -9,11 +9,12 @@ Características :
 - Oportunidades de estágio e emprego fixo com as empresas e suas parceiras.
 - Habilidades: palestrantes técnicos que conduzem com excelência a temática proposta.
 
-⚠️Obs: Somos uma iniciativa acadêmica para a troca de conhecimento, experiência e oportunidade entre alunos de todas universidades e o ambiente corporativo.
-⚠️Obs2: Fazemos periodicamente sorteios de cursos na udemy, brindes e oportunidades de trabalho em todos os segmentos!
-⚠️Obs3: Não esta autorizado a divulgação de propagandas de empresas, serviços, produtos e soluções.
-⚠️Obs4: Eventos recentes das universidades estão fixados no chat deste grupo! (;
-⚠️Obs5: Armas, drogas, politica, futebol, pornografia estão proibidas! (Ban nivel Master! ❤️³')
+⚠️ Observação Importante: 
+- Obs: Somos uma iniciativa acadêmica para a troca de conhecimento, experiência e oportunidade entre alunos de todas universidades e o ambiente corporativo.
+- Obs2: Fazemos periodicamente sorteios de cursos na udemy, brindes e oportunidades de trabalho em todos os segmentos!
+- Obs3: Não esta autorizado a divulgação de propagandas de empresas, serviços, produtos e soluções.
+- Obs4: Eventos recentes das universidades estão fixados no chat deste grupo! (;
+- Obs5: Armas, drogas, politica, futebol, pornografia estão proibidas! (Ban nivel Master! ❤️³')
 
 👨🏻‍💻Ciclo de Palestras
 - Profissões e Carreiras
