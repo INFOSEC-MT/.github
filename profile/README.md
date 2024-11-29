@@ -34,8 +34,8 @@ Características :
 - UNIVAG - PROF Aislan 
 
 🎖️Projetos Acadêmicos: 
-Eire Fragoso - connectstories - connectstories.com.br 
-Romera - GLPI Servives - https://github.com/RomeraSCR/GLPI10_NA_PRATICA 
+- Eire Fragoso - connectstories - [connectstories.com.br](https://app.connectstories.com.br/) 
+- Romera - GLPI Servives - https://github.com/RomeraSCR/GLPI10_NA_PRATICA 
 
 📞 Canais de Comunicação:
 - Github: https://infosec-mt.github.io 
@@ -45,4 +45,7 @@ Romera - GLPI Servives - https://github.com/RomeraSCR/GLPI10_NA_PRATICA
 - Whatsapp: https://chat.whatsapp.com/CmV67dfLhzPFrMkbFYKB6v
 
 💰PATROCINADORES OFICIAIS: 
-{🥷🏿} INVOKE SECURE - invokesecure.com.br
+- {🥷🏿} INVOKE SECURE - invokesecure.com.br
+
+🤝 PARCEIROS 
+- {🐠} Ecossistema de empreendedorismo e Inovação da Baixada Cuiabana - https://www.instagram.com/valedopacu 
